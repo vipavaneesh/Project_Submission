@@ -1,6 +1,6 @@
 # Project_Submission
 The Task2 and Task3 presentations are uploaded but it would be better if they are viewed in Google Slides by opening it through the links provided in the 
-GoogleSlideLinksForTask2and3 text file as the attached videos will direclty play in the presentation itself.
+GoogleSlideLinksForTask2and3 text file as on viewing it on Google slides the attached videos will direclty play in the presentation itself.
 
 I am also giving the same links which are in GoogleSlideLinksForTask2and3 text file below:
 
